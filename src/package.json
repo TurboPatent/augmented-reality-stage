@@ -1,0 +1,332 @@
+{
+  "name": "augmented-reality-stage",
+  "description": "Augmented Reality drawings",
+  "owner": {
+    "login": "TurboPatent",
+    "type": "organization"
+  },
+  "license": "MIT",
+  "isPrivate": false,
+  "details": {
+    "counts": {
+      "termCount": 10,
+      "claimCount": 1,
+      "independentCount": 1,
+      "drawingCount": 6,
+      "glossaryCount": 3
+    },
+    "briefDescriptions": [
+      "<p><b>Fig. 1</b> illustrates an embodiment of a <span data-role=\"tag\" data-value=\"42b48f2a-44dd-d3cc-823e-5039084ce8d0\" id=\"idd93e9ee5-b56b-12dd-b168-cd1f0dbfc46b\" data-type=\"drawingObject\">superimposing logic 102</span>.</p>",
+      "<p><b>Fig. 2</b> illustrates an <span data-role=\"tag\" data-value=\"ec00ab27-bfb7-0c9c-0dff-f539708eddbb\" id=\"id64ed88ae-429e-1d95-1451-ee14e1daa436\" data-type=\"drawingObject\">AR or VR system 200</span> in accordance with one embodiment.</p>",
+      "<p><b>Fig. 3</b> illustrates a <span data-role=\"tag\" data-value=\"73eeafc8-fa87-e8f8-31f7-ef127ebc2f0f\" id=\"idc290dbda-60f5-85e9-7bdb-408481f3f709\" data-type=\"drawingObject\">device 300</span> in accordance with one embodiment.</p>",
+      "<p><b>Fig. 4</b> illustrates an <span data-role=\"tag\" data-value=\"7e0e5636-3a7e-194c-628a-d9fa21e7b128\" id=\"id5d1d8f62-acd5-c7fb-ed89-e696c76ccc78\" data-type=\"drawingObject\">augmented reality device&nbsp;logic 400</span> in accordance with one embodiment.</p>",
+      "<p><b>Fig. 5</b> illustrates an <span data-role=\"tag\" data-value=\"9335aa92-559e-05d6-804f-33d844097037\" id=\"id6ae66477-ee0b-ddd9-2127-b86fbb1c96f5\" data-type=\"drawingObject\">AR device 500</span> that may implement aspects of the machine processes described herein.</p>",
+      "<p><b>Fig. 6</b> illustrates an <span data-role=\"tag\" data-value=\"6f1c50e5-95b7-391f-0e74-35cded63077d\" id=\"id9421d5ef-df9e-a417-da62-486c0848560a\" data-type=\"drawingObject\">AR device logic 600</span> in accordance with one embodiment.</p>"
+    ],
+    "parts": [
+      {
+        "name": "augmented reality environment",
+        "number": 100
+      },
+      {
+        "name": "superimposing logic",
+        "number": 102
+      },
+      {
+        "name": "virtual surface",
+        "number": 104
+      },
+      {
+        "name": "physical surface",
+        "number": 106
+      },
+      {
+        "name": "imaging sensor",
+        "number": 108
+      },
+      {
+        "name": "user",
+        "number": 110
+      },
+      {
+        "name": "virtual document",
+        "number": 112
+      },
+      {
+        "name": "headset",
+        "number": 114
+      },
+      {
+        "name": "sensor output",
+        "number": 116
+      },
+      {
+        "name": "AR or VR system",
+        "number": 200
+      },
+      {
+        "name": "virtual environment",
+        "number": 202
+      },
+      {
+        "name": "operating system",
+        "number": 204
+      },
+      {
+        "name": "virtual object",
+        "number": 206
+      },
+      {
+        "name": "hardware",
+        "number": 208
+      },
+      {
+        "name": "virtual surface",
+        "number": 210
+      },
+      {
+        "name": "application",
+        "number": 212
+      },
+      {
+        "name": "user",
+        "number": 214
+      },
+      {
+        "name": "device",
+        "number": 300
+      },
+      {
+        "name": "headpiece",
+        "number": 302
+      },
+      {
+        "name": "central portion",
+        "number": 304
+      },
+      {
+        "name": "left optical component",
+        "number": 306
+      },
+      {
+        "name": "right optical component",
+        "number": 308
+      },
+      {
+        "name": "left in-coupling zone",
+        "number": 310
+      },
+      {
+        "name": "rightin-coupling zone",
+        "number": 312
+      },
+      {
+        "name": "left intermediate zone",
+        "number": 314
+      },
+      {
+        "name": "right intermediate zone",
+        "number": 316
+      },
+      {
+        "name": "left exit zone",
+        "number": 318
+      },
+      {
+        "name": "right exit zone",
+        "number": 320
+      },
+      {
+        "name": "left stereo camera",
+        "number": 322
+      },
+      {
+        "name": "right stereo camera",
+        "number": 324
+      },
+      {
+        "name": "left microphone",
+        "number": 326
+      },
+      {
+        "name": "right microphone",
+        "number": 328
+      },
+      {
+        "name": "left speaker",
+        "number": 330
+      },
+      {
+        "name": "right speaker",
+        "number": 332
+      },
+      {
+        "name": "augmented reality device logic",
+        "number": 400
+      },
+      {
+        "name": "graphics engine",
+        "number": 402
+      },
+      {
+        "name": "camera",
+        "number": 404
+      },
+      {
+        "name": "processing units",
+        "number": 406
+      },
+      {
+        "name": "CPU",
+        "number": 408
+      },
+      {
+        "name": "GPU",
+        "number": 410
+      },
+      {
+        "name": "WiFi",
+        "number": 412
+      },
+      {
+        "name": "Bluetooth",
+        "number": 414
+      },
+      {
+        "name": "speakers",
+        "number": 416
+      },
+      {
+        "name": "microphones",
+        "number": 418
+      },
+      {
+        "name": "memory",
+        "number": 420
+      },
+      {
+        "name": "logic",
+        "number": 422
+      },
+      {
+        "name": "AR device",
+        "number": 500
+      },
+      {
+        "name": "processing units",
+        "number": 502
+      },
+      {
+        "name": "input devices",
+        "number": 504
+      },
+      {
+        "name": "memory",
+        "number": 506
+      },
+      {
+        "name": "output devices",
+        "number": 508
+      },
+      {
+        "name": "storage devices",
+        "number": 510
+      },
+      {
+        "name": "network interface",
+        "number": 512
+      },
+      {
+        "name": "logic",
+        "number": 514
+      },
+      {
+        "name": "logic",
+        "number": 516
+      },
+      {
+        "name": "logic",
+        "number": 518
+      },
+      {
+        "name": "logic",
+        "number": 520
+      },
+      {
+        "name": "AR device logic",
+        "number": 600
+      },
+      {
+        "name": "memory",
+        "number": 602
+      },
+      {
+        "name": "microphones",
+        "number": 604
+      },
+      {
+        "name": "device tracking logic",
+        "number": 606
+      },
+      {
+        "name": "local modeling logic",
+        "number": 608
+      },
+      {
+        "name": "cameras",
+        "number": 610
+      },
+      {
+        "name": "encoder",
+        "number": 612
+      },
+      {
+        "name": "local augmentation logic",
+        "number": 614
+      },
+      {
+        "name": "rendering engine",
+        "number": 616
+      },
+      {
+        "name": "graphics engine",
+        "number": 618
+      },
+      {
+        "name": "decoder",
+        "number": 620
+      },
+      {
+        "name": "speakers",
+        "number": 622
+      }
+    ],
+    "terms": [
+      "virtual surface",
+      "camera",
+      "projection location",
+      "system",
+      "interaction",
+      "imaging sensor",
+      "logic",
+      "filtered texture",
+      "texture image",
+      "virtual environment"
+    ],
+    "glossary": [
+      {
+        "term": "virtualize",
+        "definition": "converting a physical thing to a computer-generated simulation of that thing."
+      },
+      {
+        "term": "augmented reality",
+        "definition": "technology that superimposes computer-generated imagery on a user's view of the real world, thus providing a composite view."
+      },
+      {
+        "term": "virtual reality",
+        "definition": "the computer-generated simulation of a three-dimensional environment that can be interacted with in a seemingly real or physical way by a person using special electronic equipment, such as a headset with a display and gloves fitted with sensors."
+      }
+    ]
+  },
+  "repository": "https://github.com/TurboPatent/augmented-reality-stage"
+}

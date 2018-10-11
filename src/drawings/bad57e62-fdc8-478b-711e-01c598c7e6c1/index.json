@@ -1,0 +1,521 @@
+{
+  "isLandscape": false,
+  "drawingData": {
+    "cells": [
+      {
+        "type": "tp.Element",
+        "shape": "numberLabel",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": true,
+        "displayCase": "uppercase",
+        "name": "<p>AR or VR system</p>",
+        "position": {
+          "x": 601,
+          "y": 14
+        },
+        "size": {
+          "width": 28.346457481384277,
+          "height": 28.346457481384277
+        },
+        "angle": 0,
+        "hasName": true,
+        "id": "1270d307-885a-45be-ba9b-adca4b14e220",
+        "label": "<p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>",
+        "labelPosition": "only",
+        "number": 0,
+        "numbersFigure": true,
+        "objectID": "ec00ab27-bfb7-0c9c-0dff-f539708eddbb",
+        "strokeStyle": "solid",
+        "z": 1
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p></p>",
+        "position": {
+          "x": 72.99999999999932,
+          "y": 242.000000000002
+        },
+        "size": {
+          "width": 511,
+          "height": 94
+        },
+        "angle": 0,
+        "embeds": "",
+        "hasName": false,
+        "id": "527c4db1-2c94-4a7e-b3c0-a18cc365fabe",
+        "label": "<p>virtual environment</p>",
+        "labelPosition": "internal",
+        "number": 2,
+        "numberPosition": "position2",
+        "objectID": "7c96d64e-83eb-0355-b3c5-02ba75b1ada3",
+        "strokeStyle": "solid",
+        "z": 2,
+        "labelLayout": {
+          "labelBoxWidth": 466.33563232421875,
+          "fullString": "VIRTUAL ENVIRONMENT 202",
+          "endPad": 7.46217155456543,
+          "lines": [
+            {
+              "text": "VIRTUAL ENVIRONMENT 202",
+              "width": 169.8805694580078,
+              "x": 148.22753143310547,
+              "y": 32.21334108276368
+            }
+          ],
+          "textWidth": 169.8805694580078,
+          "textHeight": 21.000037499999998
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p></p>",
+        "position": {
+          "x": 74.99999999999932,
+          "y": 556.0000000000039
+        },
+        "size": {
+          "width": 511,
+          "height": 97
+        },
+        "angle": 0,
+        "embeds": "",
+        "hasName": false,
+        "id": "41825c15-034e-4145-999a-eac54e0cb6bd",
+        "label": "<p>operating <span data-role=\"tag\" data-value=\"ff87214a-69f9-22e7-1084-5e8cca3451e0\" id=\"id6e57ea69-2887-cb98-5344-5992b1a7a628\" data-type=\"term\">system</span></p>",
+        "labelPosition": "internal",
+        "number": 4,
+        "numberPosition": "position3",
+        "objectID": "91038fc1-7d69-8df0-4b0c-65c90e1656e4",
+        "strokeStyle": "solid",
+        "z": 3,
+        "labelLayout": {
+          "labelBoxWidth": 466.33563232421875,
+          "fullString": "OPERATING SYSTEM 204",
+          "endPad": 7.46217155456543,
+          "lines": [
+            {
+              "text": "OPERATING SYSTEM 204",
+              "width": 145.34378051757812,
+              "x": 160.4959259033203,
+              "y": 33.5765307800293
+            }
+          ],
+          "textWidth": 145.34378051757812,
+          "textHeight": 21.000037499999998
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p></p>",
+        "position": {
+          "x": 67.99999999999932,
+          "y": 399.00000000000017
+        },
+        "size": {
+          "width": 188,
+          "height": 91
+        },
+        "angle": 0,
+        "embeds": "",
+        "hasName": false,
+        "id": "6c270979-2b71-4697-b4a3-c9a292b6b0f5",
+        "label": "<p>virtual object</p>",
+        "labelPosition": "internal",
+        "number": 6,
+        "numberPosition": "position2",
+        "objectID": "4260996a-429a-cd7d-5b80-fb4eeb66ae29",
+        "strokeStyle": "solid",
+        "z": 5,
+        "labelLayout": {
+          "labelBoxWidth": 171.5677032470703,
+          "fullString": "VIRTUAL OBJECT 206",
+          "endPad": 7.46217155456543,
+          "lines": [
+            {
+              "text": "VIRTUAL OBJECT 206",
+              "width": 120.93453979492188,
+              "x": 25.31658172607422,
+              "y": 30.850155200195314
+            }
+          ],
+          "textWidth": 120.93453979492188,
+          "textHeight": 21.000037499999998
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p></p>",
+        "position": {
+          "x": 72.49999999999932,
+          "y": 730.4881916046132
+        },
+        "size": {
+          "width": 512,
+          "height": 102
+        },
+        "angle": 0,
+        "embeds": "",
+        "hasName": false,
+        "id": "eb9c60ad-cd6d-494f-a66b-87630f6c80f0",
+        "label": "<p>hardware</p>",
+        "labelPosition": "internal",
+        "number": 8,
+        "numberPosition": "position3",
+        "objectID": "7f7191c4-3b71-d38d-41a5-8071a1c73ce4",
+        "strokeStyle": "solid",
+        "z": 6,
+        "labelLayout": {
+          "labelBoxWidth": 467.2482604980469,
+          "fullString": "HARDWARE 208",
+          "endPad": 7.46217155456543,
+          "lines": [
+            {
+              "text": "HARDWARE 208",
+              "width": 93.9377212524414,
+              "x": 186.65526962280273,
+              "y": 35.84852250976563
+            }
+          ],
+          "textWidth": 93.9377212524414,
+          "textHeight": 21.000037499999998
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p></p>",
+        "position": {
+          "x": 265.9999999999993,
+          "y": 399.00000000000017
+        },
+        "size": {
+          "width": 132,
+          "height": 91
+        },
+        "angle": 0,
+        "embeds": "",
+        "hasName": false,
+        "id": "f32f90c4-0f1f-2126-a67d-c0d400e53573",
+        "label": "<p><span data-role=\"tag\" data-value=\"0fc462cc-9b75-bbb5-18b9-e391b058bcbb\" id=\"id85da2c04-71c3-d7e7-3d53-26c54220dcef\" data-type=\"term\">virtual surface</span></p>",
+        "labelPosition": "internal",
+        "number": 10,
+        "numberPosition": "position2",
+        "objectID": "6aa465b7-fd97-ebc2-6151-b1a0f8a0c1a4",
+        "strokeStyle": "solid",
+        "z": 6,
+        "labelLayout": {
+          "labelBoxWidth": 120.4624252319336,
+          "fullString": "VIRTUAL SURFACE 210",
+          "endPad": 7.46217155456543,
+          "lines": [
+            {
+              "text": "VIRTUAL SURFACE",
+              "width": 104.76193237304688,
+              "x": 7.850246429443359,
+              "y": 20.350136450195315
+            },
+            {
+              "text": "210",
+              "width": 22.386510848999023,
+              "x": 49.037957191467285,
+              "y": 41.35017395019531
+            }
+          ],
+          "textWidth": 104.76193237304688,
+          "textHeight": 42.000074999999995
+        }
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p></p>",
+        "position": {
+          "x": 409.9999999999993,
+          "y": 399
+        },
+        "size": {
+          "width": 168,
+          "height": 91
+        },
+        "angle": 0,
+        "embeds": "",
+        "hasName": false,
+        "id": "81e2cb1e-9e9f-da33-df8d-d89d3ef68d4c",
+        "label": "<p>application</p>",
+        "labelPosition": "internal",
+        "number": 12,
+        "numberPosition": "position2",
+        "objectID": "043956b3-8aa2-660c-d9c5-2ce30fe0b2df",
+        "strokeStyle": "solid",
+        "z": 6,
+        "labelLayout": {
+          "labelBoxWidth": 153.31582641601562,
+          "fullString": "APPLICATION 212",
+          "endPad": 7.46217155456543,
+          "lines": [
+            {
+              "text": "APPLICATION 212",
+              "width": 102.75745391845703,
+              "x": 25.279186248779297,
+              "y": 30.850155200195314
+            }
+          ],
+          "textWidth": 102.75745391845703,
+          "textHeight": 21.000037499999998
+        }
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "eb9c60ad-cd6d-494f-a66b-87630f6c80f0"
+        },
+        "target": {
+          "id": "41825c15-034e-4145-999a-eac54e0cb6bd"
+        },
+        "embeds": "",
+        "id": "42154ff9-d8e7-47b6-a216-d986b3621eb6",
+        "label": "<p>OS Action</p>",
+        "number": null,
+        "objectID": "4394c692-e236-f589-b019-d787495bacb4",
+        "routing": "straight",
+        "z": 7,
+        "name": "<p></p>"
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "41825c15-034e-4145-999a-eac54e0cb6bd"
+        },
+        "target": {
+          "id": "81e2cb1e-9e9f-da33-df8d-d89d3ef68d4c"
+        },
+        "embeds": "",
+        "id": "c36c7e63-ab31-4a73-a76a-0ebbe3d2c087",
+        "label": "<p>action</p>",
+        "number": null,
+        "objectID": "c03c3294-4924-44d2-670f-0896ebd0241a",
+        "routing": "straight",
+        "z": 8,
+        "name": "<p></p>"
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "41825c15-034e-4145-999a-eac54e0cb6bd"
+        },
+        "target": {
+          "id": "f32f90c4-0f1f-2126-a67d-c0d400e53573"
+        },
+        "embeds": "",
+        "id": "6bfe259a-2f54-4881-ac0b-4f79c6892067",
+        "label": "<p>action</p>",
+        "number": null,
+        "objectID": "1c0079f1-23fc-835a-b809-17ba46a4557d",
+        "routing": "straight",
+        "vertices": [],
+        "z": 9,
+        "name": "<p></p>"
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "41825c15-034e-4145-999a-eac54e0cb6bd"
+        },
+        "target": {
+          "id": "6c270979-2b71-4697-b4a3-c9a292b6b0f5"
+        },
+        "embeds": "",
+        "id": "52c06dfe-9987-4b81-984c-c82addade69a",
+        "label": "<p>action</p>",
+        "number": null,
+        "objectID": "356dd040-7f41-9245-b64c-5e912ec563c4",
+        "routing": "straight",
+        "z": 10,
+        "name": "<p></p>"
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "f32f90c4-0f1f-2126-a67d-c0d400e53573"
+        },
+        "target": {
+          "id": "527c4db1-2c94-4a7e-b3c0-a18cc365fabe"
+        },
+        "embeds": "",
+        "id": "1bb70a26-6977-4fd2-b704-d07cf68bfa46",
+        "label": "<p><span data-role=\"tag\" data-value=\"c8f7f43d-d48c-2062-d3b4-c986ccab39da\" id=\"idc188bc29-85e0-6864-41f8-87a197a278f6\" data-type=\"term\">interaction</span></p>",
+        "number": null,
+        "objectID": "e6b1c84d-c5d1-3403-6c79-f0dc608ffdba",
+        "routing": "straight",
+        "z": 11,
+        "name": "<p></p>"
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "81e2cb1e-9e9f-da33-df8d-d89d3ef68d4c"
+        },
+        "target": {
+          "id": "527c4db1-2c94-4a7e-b3c0-a18cc365fabe"
+        },
+        "embeds": "",
+        "id": "b96a42d6-f797-4572-a824-ed94a2016506",
+        "label": "<p><span data-role=\"tag\" data-value=\"c8f7f43d-d48c-2062-d3b4-c986ccab39da\" id=\"id5347f388-ed5c-555d-ea42-042637bf8150\" data-type=\"term\">interaction</span></p>",
+        "number": null,
+        "objectID": "241c983d-b31d-6d4a-2b3e-e34cb7d0457a",
+        "routing": "straight",
+        "z": 12,
+        "name": "<p></p>"
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "x": 202,
+          "y": 397
+        },
+        "target": {
+          "id": "527c4db1-2c94-4a7e-b3c0-a18cc365fabe"
+        },
+        "embeds": "",
+        "id": "e4ff7944-ee74-4eb4-832d-c12b0beeea34",
+        "label": "<p><span data-role=\"tag\" data-value=\"c8f7f43d-d48c-2062-d3b4-c986ccab39da\" id=\"id1208682e-b270-ee35-e298-dc06a4302d3a\" data-type=\"term\">interaction</span></p>",
+        "number": null,
+        "objectID": "88fd2b87-1baa-bea7-c8bb-cc84d9cb8305",
+        "routing": "straight",
+        "z": 13,
+        "name": "<p></p>",
+        "vertices": []
+      },
+      {
+        "type": "tp.Element",
+        "shape": "person",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p></p>",
+        "position": {
+          "x": 307.3913379955285,
+          "y": 52.34645748138428
+        },
+        "size": {
+          "width": 42.21732400894165,
+          "height": 113.38582992553711
+        },
+        "angle": 0,
+        "embeds": "",
+        "hasName": false,
+        "id": "ec1db6de-90d9-453f-a1c2-3149dd3ff5d4",
+        "label": "<p>user</p>",
+        "labelPosition": "top",
+        "number": 14,
+        "numberPosition": "position4",
+        "objectID": "270fa358-970f-68d6-c8af-2c9eb2cb770d",
+        "strokeStyle": "solid",
+        "z": 14,
+        "labelLayout": {
+          "labelBoxWidth": 127.23948669433594,
+          "fullString": "USER 214",
+          "lines": [
+            {
+              "text": "USER 214",
+              "width": 57.59265899658203,
+              "x": 34.82341384887695,
+              "y": -21.000037499999998
+            }
+          ],
+          "textWidth": 57.59265899658203,
+          "textHeight": 21.000037499999998
+        }
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "source",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "x": 333,
+          "y": 237
+        },
+        "target": {
+          "id": "ec1db6de-90d9-453f-a1c2-3149dd3ff5d4"
+        },
+        "embeds": "",
+        "id": "ef185571-19f5-4d88-8ec6-034d54364b69",
+        "label": "<p>input</p>",
+        "number": null,
+        "objectID": "c7e04d39-c0b1-4f09-f051-a04e21b2533f",
+        "routing": "straight",
+        "vertices": [],
+        "z": 15,
+        "name": "<p></p>"
+      }
+    ]
+  }
+}

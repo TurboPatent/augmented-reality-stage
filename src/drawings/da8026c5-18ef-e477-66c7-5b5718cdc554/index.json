@@ -1,0 +1,718 @@
+{
+  "isLandscape": true,
+  "drawingData": {
+    "cells": [
+      {
+        "type": "tp.Element",
+        "shape": "numberLabel",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>augmented reality device&nbsp;<span data-role=\"tag\" data-value=\"9ccf6aef-f0cb-2d30-3918-77421f73bb51\" id=\"idf7dcef25-a12c-9c25-7053-bba0868fd550\" data-type=\"term\">logic</span></p>",
+        "position": {
+          "x": 603.2785453796387,
+          "y": 17.875
+        },
+        "size": {
+          "width": 28.346454620361328,
+          "height": 28.346454620361328
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "only",
+        "id": "af41d3c1-ed05-4c7c-a22d-5fa2345eae45",
+        "z": 1,
+        "objectID": "7e0e5636-3a7e-194c-628a-d9fa21e7b128",
+        "number": 0
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>processing units</p>",
+        "position": {
+          "x": 249.9999999999996,
+          "y": 128.0000000000004
+        },
+        "size": {
+          "width": 212,
+          "height": 154
+        },
+        "angle": 0,
+        "label": "<p>processing units</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "e7e0f746-c8d8-4e71-9a00-9b0b90fb9312",
+        "z": 4,
+        "labelLayout": {
+          "labelBoxWidth": 193.469970703125,
+          "fullString": "PROCESSING UNITS 406",
+          "endPad": 7.46217155456543,
+          "lines": [
+            {
+              "text": "PROCESSING UNITS 406",
+              "width": 144.7880096435547,
+              "x": 24.340980529785156,
+              "y": 0
+            }
+          ],
+          "textWidth": 144.7880096435547,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "b258f0ef-8512-89c9-5d85-4be3587f8c97",
+        "number": 6
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>CPU</p>",
+        "position": {
+          "x": 277.9999999999998,
+          "y": 196.48818206787115
+        },
+        "size": {
+          "width": 70,
+          "height": 53
+        },
+        "angle": 0,
+        "label": "<p>CPU</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "52eb6250-abf7-16fd-c705-421d0fb27b0d",
+        "z": 5,
+        "labelLayout": {
+          "labelBoxWidth": 63.881595611572266,
+          "fullString": "CPU 408",
+          "endPad": 7.46217155456543,
+          "lines": [
+            {
+              "text": "CPU 408",
+              "width": 50.60429382324219,
+              "x": 6.638650894165039,
+              "y": 13.583048190307618
+            }
+          ],
+          "textWidth": 50.60429382324219,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "0ce3f6f8-2ef0-26be-eab1-e4d78114e180",
+        "number": 8
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>GPU</p>",
+        "position": {
+          "x": 362,
+          "y": 196.0000000000001
+        },
+        "size": {
+          "width": 71,
+          "height": 53
+        },
+        "angle": 0,
+        "label": "<p>GPU</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "3582d05a-b050-b888-4417-7c974b05738f",
+        "z": 6,
+        "labelLayout": {
+          "labelBoxWidth": 64.794189453125,
+          "fullString": "GPU 410",
+          "endPad": 7.46217155456543,
+          "lines": [
+            {
+              "text": "GPU 410",
+              "width": 52.563228607177734,
+              "x": 6.115480422973633,
+              "y": 13.583048190307618
+            }
+          ],
+          "textWidth": 52.563228607177734,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "d7abe85c-c5ff-5c7f-68ae-7350fd641c01",
+        "number": 10
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>WiFi</p>",
+        "position": {
+          "x": 88.99999999999991,
+          "y": 149.00000000000017
+        },
+        "size": {
+          "width": 102,
+          "height": 47
+        },
+        "angle": 0,
+        "label": "<p>WiFi</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "6571dcac-f2b9-df6d-492d-49aa9c91cb59",
+        "z": 7,
+        "labelLayout": {
+          "labelBoxWidth": 93.08460235595703,
+          "fullString": "WIFI 412",
+          "endPad": 7.46217155456543,
+          "lines": [
+            {
+              "text": "WIFI 412",
+              "width": 52.863868713378906,
+              "x": 20.110366821289062,
+              "y": 10.856661166381837
+            }
+          ],
+          "textWidth": 52.863868713378906,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "2c621f76-88ad-7df4-dce1-79147a60c598",
+        "number": 12
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>Bluetooth</p>",
+        "position": {
+          "x": 90.99999999999977,
+          "y": 209.48818206787155
+        },
+        "size": {
+          "width": 108.29451729162662,
+          "height": 48.364541703056545
+        },
+        "angle": 0,
+        "label": "<p>Bluetooth</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "710a4367-2c67-8188-3d35-984f72a79bfd",
+        "z": 8,
+        "labelLayout": {
+          "labelBoxWidth": 98.82894897460938,
+          "fullString": "BLUETOOTH 414",
+          "endPad": 7.46217155456543,
+          "lines": [
+            {
+              "text": "BLUETOOTH",
+              "width": 71.74251556396484,
+              "x": 13.543216705322266,
+              "y": 0.9766871246337914
+            },
+            {
+              "text": "414",
+              "width": 22.386510848999023,
+              "x": 38.221219062805176,
+              "y": 21.97672462463379
+            }
+          ],
+          "textWidth": 71.74251556396484,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "67d6f523-111f-c744-19e0-8e30cf3ad470",
+        "number": 14
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>speakers</p>",
+        "position": {
+          "x": 529,
+          "y": 281.9999999999998
+        },
+        "size": {
+          "width": 124,
+          "height": 35
+        },
+        "angle": 0,
+        "label": "<p>speakers</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "6a9ae6c4-3c20-a7d2-8cc3-8b4841624b50",
+        "z": 9,
+        "labelLayout": {
+          "labelBoxWidth": 113.16168212890625,
+          "fullString": "SPEAKERS 416",
+          "endPad": 7.46217155456543,
+          "lines": [
+            {
+              "text": "SPEAKERS 416",
+              "width": 85.50062561035156,
+              "x": 13.830528259277344,
+              "y": 5.40389093322754
+            }
+          ],
+          "textWidth": 85.50062561035156,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "9ae51f4b-35a5-2c87-4e40-79d077f20ee6",
+        "number": 16
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>microphones</p>",
+        "position": {
+          "x": 535,
+          "y": 428
+        },
+        "size": {
+          "width": 151,
+          "height": 35
+        },
+        "angle": 0,
+        "label": "<p>microphones</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "3ebdc674-fcdc-3afc-bf78-a1d4396d6c25",
+        "z": 10,
+        "labelLayout": {
+          "labelBoxWidth": 137.80172729492188,
+          "fullString": "MICROPHONES 418",
+          "endPad": 7.46217155456543,
+          "lines": [
+            {
+              "text": "MICROPHONES 418",
+              "width": 119.0667724609375,
+              "x": 9.367477416992188,
+              "y": 5.40389093322754
+            }
+          ],
+          "textWidth": 119.0667724609375,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "83565e78-2c41-1ed8-ee71-37a8ca7ef151",
+        "number": 18
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>memory</p>",
+        "position": {
+          "x": 200.99999999999972,
+          "y": 346.0000000000006
+        },
+        "size": {
+          "width": 203,
+          "height": 107
+        },
+        "angle": 0,
+        "label": "<p>memory</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "0351f738-4207-8b4c-4630-6be26d574e0e",
+        "z": 11,
+        "labelLayout": {
+          "labelBoxWidth": 185.25660705566406,
+          "fullString": "MEMORY 420",
+          "endPad": 7.46217155456543,
+          "lines": [
+            {
+              "text": "MEMORY 420",
+              "width": 82.37547302246094,
+              "x": 51.44056701660156,
+              "y": 0
+            }
+          ],
+          "textWidth": 82.37547302246094,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "a7518dd1-08d4-923b-e0ed-4a73b69806c9",
+        "number": 20
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>logic</p>",
+        "position": {
+          "x": 284,
+          "y": 383
+        },
+        "size": {
+          "width": 54,
+          "height": 43
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "bf79ac6f-8faa-9ed7-769c-04b30150522e",
+        "z": 12,
+        "labelLayout": {
+          "labelBoxWidth": 49.280086517333984,
+          "fullString": " 422",
+          "endPad": 7.46217155456543,
+          "lines": [
+            {
+              "text": " 422",
+              "width": 22.386510848999023,
+              "x": 13.44678783416748,
+              "y": 9.039072360229493
+            }
+          ],
+          "textWidth": 22.386510848999023,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "d5e62d13-4fcc-9d0b-6386-1a65cec65da5",
+        "number": 22
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 558.9999999999998,
+          "y": 109.00000000000088
+        },
+        "size": {
+          "width": 104,
+          "height": 152
+        },
+        "angle": 0,
+        "label": "<p>graphics engine</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "7f9c8ebc-17c4-e277-9466-d248b788f967",
+        "z": 14,
+        "labelLayout": {
+          "labelBoxWidth": 94.9097900390625,
+          "fullString": "GRAPHICS ENGINE",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "GRAPHICS",
+              "width": 61.14607620239258,
+              "x": 16.88185691833496,
+              "y": 48.06837528076172
+            },
+            {
+              "text": "ENGINE",
+              "width": 47.8253173828125,
+              "x": 23.542236328125,
+              "y": 69.06841278076172
+            }
+          ],
+          "textWidth": 61.14607620239258,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "bd995db0-6583-e370-1196-20ef2bbf6bad",
+        "number": null
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": false,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 534,
+          "y": 368.9999999999998
+        },
+        "size": {
+          "width": 148,
+          "height": 40
+        },
+        "angle": 0,
+        "label": "<p>cameras</p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "id": "4047e3f6-6823-8d19-a795-8063c591e802",
+        "z": 14,
+        "labelLayout": {
+          "labelBoxWidth": 135.06394958496094,
+          "fullString": "CAMERAS",
+          "endPad": 0,
+          "lines": [
+            {
+              "text": "CAMERAS",
+              "width": 57.838661193847656,
+              "x": 38.61264419555664,
+              "y": 7.675878848266603
+            }
+          ],
+          "textWidth": 57.838661193847656,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "f128de99-4fbe-2948-549a-3257e2b81105",
+        "number": null
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "6571dcac-f2b9-df6d-492d-49aa9c91cb59"
+        },
+        "target": {
+          "x": 248,
+          "y": 174
+        },
+        "id": "8e33768a-3271-4163-becd-4112628d2626",
+        "embeds": "",
+        "z": 15,
+        "routing": "straight",
+        "objectID": "663a9336-076c-2644-0cc6-76677150e268"
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "710a4367-2c67-8188-3d35-984f72a79bfd"
+        },
+        "target": {
+          "x": 249,
+          "y": 233
+        },
+        "id": "ac63f21e-1dc2-4f13-beec-9ce02c0a8b25",
+        "embeds": "",
+        "z": 16,
+        "routing": "straight",
+        "objectID": "50162d43-1ddb-fd73-7e08-8d5275276bba"
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "e7e0f746-c8d8-4e71-9a00-9b0b90fb9312"
+        },
+        "target": {
+          "x": 557,
+          "y": 202
+        },
+        "id": "4f393a91-efc8-41da-a57a-e8c2f1bd1fd7",
+        "embeds": "",
+        "z": 17,
+        "routing": "straight",
+        "objectID": "2f08d160-6093-51c8-b75c-9e92c4fd99b0"
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "e7e0f746-c8d8-4e71-9a00-9b0b90fb9312"
+        },
+        "target": {
+          "id": "6a9ae6c4-3c20-a7d2-8cc3-8b4841624b50"
+        },
+        "id": "e9e6db76-ec40-4d7f-b428-c0044f9b8358",
+        "embeds": "",
+        "z": 18,
+        "routing": "straight",
+        "objectID": "7858ab48-a3a0-99fb-a584-c2dcdc55824c",
+        "vertices": [
+          {
+            "x": 501,
+            "y": 203
+          },
+          {
+            "x": 501,
+            "y": 298
+          }
+        ]
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "e7e0f746-c8d8-4e71-9a00-9b0b90fb9312"
+        },
+        "target": {
+          "id": "0351f738-4207-8b4c-4630-6be26d574e0e"
+        },
+        "id": "52613461-fdac-4035-8345-4e1550990f74",
+        "embeds": "",
+        "z": 19,
+        "routing": "straight",
+        "objectID": "8332af4a-99f8-5b25-a1ba-3e6e7ba433fa"
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "neither",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "4047e3f6-6823-8d19-a795-8063c591e802"
+        },
+        "target": {
+          "x": 435,
+          "y": 384
+        },
+        "id": "82f87919-cbad-4e99-8af7-1fb2ffe8226f",
+        "embeds": "",
+        "z": 20,
+        "routing": "straight",
+        "objectID": "77431f08-bf32-8531-4e5d-fc93cfc8cde6",
+        "vertices": []
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "target",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "3ebdc674-fcdc-3afc-bf78-a1d4396d6c25"
+        },
+        "target": {
+          "x": 437,
+          "y": 282
+        },
+        "id": "14e5058a-a042-40ca-850c-286ef1a6835c",
+        "embeds": "",
+        "z": 21,
+        "routing": "straight",
+        "objectID": "7ed88eb1-d236-6299-6046-aabd27b61498",
+        "vertices": [
+          {
+            "x": 436,
+            "y": 448.0293710961943
+          }
+        ]
+      },
+      {
+        "type": "tp.Element",
+        "shape": "numberElement",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p>graphics engine</p>",
+        "position": {
+          "x": 596,
+          "y": 205
+        },
+        "size": {
+          "width": 30.23621826171875,
+          "height": 30.23621826171875
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "none",
+        "hasName": true,
+        "labelPosition": "only",
+        "leadLinePosition": "position4",
+        "id": "9bfad131-ab58-49fa-9c66-21c46e1bc48c",
+        "z": 22,
+        "objectID": "23691805-eaaf-d2d5-10f1-01848d1f9575",
+        "number": 2,
+        "underlineNumber": true
+      },
+      {
+        "type": "tp.Element",
+        "shape": "numberElement",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"1b0f7f5a-4f97-2904-3cde-dc249f14c78c\" id=\"idb6910d0b-33e0-bc68-7058-57453b1a6d83\" data-type=\"term\">camera</span></p>",
+        "position": {
+          "x": 642,
+          "y": 373
+        },
+        "size": {
+          "width": 30.23621826171875,
+          "height": 30.23621826171875
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "none",
+        "hasName": true,
+        "labelPosition": "only",
+        "leadLinePosition": "position4",
+        "id": "3a6ba74e-fd71-4766-881b-3ffb1c8fa1b8",
+        "z": 23,
+        "objectID": "756601ab-e37f-96f4-01a4-9e8a9741add6",
+        "number": 4,
+        "underlineNumber": true
+      }
+    ]
+  }
+}

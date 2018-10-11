@@ -1,0 +1,12 @@
+{
+  "name": "ar-template",
+  "version": "1.0.0",
+  "description": "Augmented Reality",
+  "owner": {
+    "login": "PatentNavigation",
+    "type": "organization"
+  },
+  "author": "Chad Kirby <chad@patentnavigation.com>",
+  "license": "MIT",
+  "private": false
+}
