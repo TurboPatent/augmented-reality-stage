@@ -16,12 +16,12 @@
       "glossaryCount": 3
     },
     "briefDescriptions": [
-      "<p><b>Fig. 1</b> illustrates an embodiment of a <span data-role=\"tag\" data-value=\"42b48f2a-44dd-d3cc-823e-5039084ce8d0\" id=\"idd93e9ee5-b56b-12dd-b168-cd1f0dbfc46b\" data-type=\"drawingObject\">superimposing logic 102</span>.</p>",
-      "<p><b>Fig. 2</b> illustrates an <span data-role=\"tag\" data-value=\"ec00ab27-bfb7-0c9c-0dff-f539708eddbb\" id=\"id64ed88ae-429e-1d95-1451-ee14e1daa436\" data-type=\"drawingObject\">AR or VR system 200</span> in accordance with one embodiment.</p>",
-      "<p><b>Fig. 3</b> illustrates a <span data-role=\"tag\" data-value=\"73eeafc8-fa87-e8f8-31f7-ef127ebc2f0f\" id=\"idc290dbda-60f5-85e9-7bdb-408481f3f709\" data-type=\"drawingObject\">device 300</span> in accordance with one embodiment.</p>",
-      "<p><b>Fig. 4</b> illustrates an <span data-role=\"tag\" data-value=\"7e0e5636-3a7e-194c-628a-d9fa21e7b128\" id=\"id5d1d8f62-acd5-c7fb-ed89-e696c76ccc78\" data-type=\"drawingObject\">augmented reality device&nbsp;logic 400</span> in accordance with one embodiment.</p>",
-      "<p><b>Fig. 5</b> illustrates an <span data-role=\"tag\" data-value=\"9335aa92-559e-05d6-804f-33d844097037\" id=\"id6ae66477-ee0b-ddd9-2127-b86fbb1c96f5\" data-type=\"drawingObject\">AR device 500</span> that may implement aspects of the machine processes described herein.</p>",
-      "<p><b>Fig. 6</b> illustrates an <span data-role=\"tag\" data-value=\"6f1c50e5-95b7-391f-0e74-35cded63077d\" id=\"id9421d5ef-df9e-a417-da62-486c0848560a\" data-type=\"drawingObject\">AR device logic 600</span> in accordance with one embodiment.</p>"
+      "<p>illustrates an embodiment of a <span data-role=\"tag\" data-value=\"42b48f2a-44dd-d3cc-823e-5039084ce8d0\" id=\"idd93e9ee5-b56b-12dd-b168-cd1f0dbfc46b\" data-type=\"drawingObject\">superimposing logic 102</span>.</p>",
+      "<p>illustrates an <span data-role=\"tag\" data-value=\"ec00ab27-bfb7-0c9c-0dff-f539708eddbb\" id=\"id64ed88ae-429e-1d95-1451-ee14e1daa436\" data-type=\"drawingObject\">AR or VR system 200</span> in accordance with one embodiment.</p>",
+      "<p>illustrates a <span data-role=\"tag\" data-value=\"73eeafc8-fa87-e8f8-31f7-ef127ebc2f0f\" id=\"idc290dbda-60f5-85e9-7bdb-408481f3f709\" data-type=\"drawingObject\">device 300</span> in accordance with one embodiment.</p>",
+      "<p>illustrates an <span data-role=\"tag\" data-value=\"7e0e5636-3a7e-194c-628a-d9fa21e7b128\" id=\"id5d1d8f62-acd5-c7fb-ed89-e696c76ccc78\" data-type=\"drawingObject\">augmented reality device&nbsp;logic 400</span> in accordance with one embodiment.</p>",
+      "<p>illustrates an <span data-role=\"tag\" data-value=\"9335aa92-559e-05d6-804f-33d844097037\" id=\"id6ae66477-ee0b-ddd9-2127-b86fbb1c96f5\" data-type=\"drawingObject\">AR device 500</span> that may implement aspects of the machine processes described herein.</p>",
+      "<p>illustrates an <span data-role=\"tag\" data-value=\"6f1c50e5-95b7-391f-0e74-35cded63077d\" id=\"id9421d5ef-df9e-a417-da62-486c0848560a\" data-type=\"drawingObject\">AR device logic 600</span> in accordance with one embodiment.</p>"
     ],
     "parts": [
       {
