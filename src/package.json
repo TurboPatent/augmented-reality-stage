@@ -303,28 +303,28 @@
     ],
     "terms": [
       "virtual surface",
-      "camera",
       "projection location",
-      "system",
-      "interaction",
+      "camera",
       "imaging sensor",
+      "texture image",
       "logic",
       "filtered texture",
-      "texture image",
-      "virtual environment"
+      "virtual environment",
+      "interaction",
+      "system"
     ],
     "glossary": [
       {
-        "term": "virtualize",
-        "definition": "converting a physical thing to a computer-generated simulation of that thing."
+        "term": "virtual reality",
+        "definition": "the computer-generated simulation of a three-dimensional environment that can be interacted with in a seemingly real or physical way by a person using special electronic equipment, such as a headset with a display and gloves fitted with sensors."
       },
       {
         "term": "augmented reality",
         "definition": "technology that superimposes computer-generated imagery on a user's view of the real world, thus providing a composite view."
       },
       {
-        "term": "virtual reality",
-        "definition": "the computer-generated simulation of a three-dimensional environment that can be interacted with in a seemingly real or physical way by a person using special electronic equipment, such as a headset with a display and gloves fitted with sensors."
+        "term": "virtualize",
+        "definition": "converting a physical thing to a computer-generated simulation of that thing."
       }
     ]
   },
